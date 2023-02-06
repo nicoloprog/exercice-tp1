@@ -1,2 +1,2 @@
 # exercice-tp1
-Créer par Nicolas Paquette 
+Créé par Nicolas Paquette 
